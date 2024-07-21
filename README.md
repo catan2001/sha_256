@@ -7,12 +7,12 @@
 <p>SHA256 (SecureHashAlgorithm) is a part of SHA2 family of algorithms published in 2001. It's a compression function that works with an input of 512bit wide blocks of messages and outputs 256-bit wide HASH values. It is used for authentication and encryption protocols. </p>
 
 ## Example
-
-input string: **AlokinCitac**
-
-<p>Output HASH:    **d8662cd9894b29a88c0463b523514a837031e6dde61cfd9bf29ddc89130e2290** </p>
-<p>Expected HASH:  **d8662cd9894b29a88c0463b523514a837031e6dde61cfd9bf29ddc89130e2290** </p>
-
+>
+> input string: **AlokinCitac**
+>
+> Output HASH:    **d8662cd9894b29a88c0463b523514a837031e6dde61cfd9bf29ddc89130e2290**
+> Expected HASH:  **d8662cd9894b29a88c0463b523514a837031e6dde61cfd9bf29ddc89130e2290** </p>
+>
 ## Resources
 
 - https://en.wikipedia.org/wiki/SHA-2

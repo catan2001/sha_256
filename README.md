@@ -4,7 +4,7 @@
 
 ## About
 
-<p>SHA256 (__Secure Hash Algorithm__) is a part of SHA2 family of algorithms published in 2001. It's a compression function that works with an input of 512bit wide blocks of messages and outputs 256-bit wide HASH values. It is used for authentication and encryption protocols. </p>
+<p>SHA256 (SecureHashAlgorithm) is a part of SHA2 family of algorithms published in 2001. It's a compression function that works with an input of 512bit wide blocks of messages and outputs 256-bit wide HASH values. It is used for authentication and encryption protocols. </p>
 
 ## Example
 

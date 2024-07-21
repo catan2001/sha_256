@@ -10,8 +10,8 @@
 
 input string: **AlokinCitac**
 
-Output HASH:    **d8662cd9894b29a88c0463b523514a837031e6dde61cfd9bf29ddc89130e2290**
-Expected HASH:  **d8662cd9894b29a88c0463b523514a837031e6dde61cfd9bf29ddc89130e2290**
+<p>Output HASH:    **d8662cd9894b29a88c0463b523514a837031e6dde61cfd9bf29ddc89130e2290** </p>
+<p>Expected HASH:  **d8662cd9894b29a88c0463b523514a837031e6dde61cfd9bf29ddc89130e2290** </p>
 
 ## Resources
 
